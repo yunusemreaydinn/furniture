@@ -1,1 +1,1 @@
-live demo: https://emre-furniture.netlify.app/
+live demo -> https://furnitureexample.netlify.app/
